@@ -4,9 +4,9 @@
 # http://www.archer.ac.uk/documentation/user-guide/batch.php#qsub
 
 # PBS job options (name, compute nodes, job time)
-#PBS -N sharpen
+#PBS -N traffic_ser
 #PBS -l select=1
-#PBS -l walltime=00:01:00
+#PBS -l walltime=05:01:00
 
 # Replace [project code] below with your project code (e.g. t01)
 #PBS -A y14

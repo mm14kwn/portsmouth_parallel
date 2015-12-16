@@ -1,0 +1,19 @@
+--------------------------------------------------------------------------------
+*** guest60   Job: 3400691.sdb   started: 16/12/15 16:15:40   host: mom3 ***
+*** guest60   Job: 3400691.sdb   started: 16/12/15 16:15:40   host: mom3 ***
+*** guest60   Job: 3400691.sdb   started: 16/12/15 16:15:40   host: mom3 ***
+*** guest60   Job: 3400691.sdb   started: 16/12/15 16:15:40   host: mom3 ***
+
+--------------------------------------------------------------------------------
+ Run Complete - Writing to file
+Application 19435421 resources: utime ~5s, stime ~0s, Rss ~13176, inblocks ~23906, outblocks ~29123
+--------------------------------------------------------------------------------
+
+Resources requested: ncpus=240,place=free,walltime=00:02:00
+Resources allocated: cpupercent=0,cput=00:00:00,mem=0kb,ncpus=240,vmem=0kb,walltime=00:00:03
+
+*** guest60   Job: 3400691.sdb   ended: 16/12/15 16:15:42   queue: R3377291 ***
+*** guest60   Job: 3400691.sdb   ended: 16/12/15 16:15:42   queue: R3377291 ***
+*** guest60   Job: 3400691.sdb   ended: 16/12/15 16:15:42   queue: R3377291 ***
+*** guest60   Job: 3400691.sdb   ended: 16/12/15 16:15:42   queue: R3377291 ***
+--------------------------------------------------------------------------------
