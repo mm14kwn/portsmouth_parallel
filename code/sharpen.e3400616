@@ -1,0 +1,7 @@
+
+lib-4051 : UNRECOVERABLE library error 
+  The file must not exist prior to OPEN if STATUS is 'NEW'.
+
+Encountered during an OPEN of unit 1
+Fortran unit 1 is not connected
+_pmiu_daemon(SIGCHLD): [NID 02220] [c3-1c1s11n0] [Wed Dec 16 15:48:01 2015] PE RANK 0 exit signal Aborted

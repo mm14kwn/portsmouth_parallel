@@ -1,0 +1,20 @@
+--------------------------------------------------------------------------------
+*** guest60   Job: 3400616.sdb   started: 16/12/15 15:47:59   host: mom4 ***
+*** guest60   Job: 3400616.sdb   started: 16/12/15 15:47:59   host: mom4 ***
+*** guest60   Job: 3400616.sdb   started: 16/12/15 15:47:59   host: mom4 ***
+*** guest60   Job: 3400616.sdb   started: 16/12/15 15:47:59   host: mom4 ***
+
+--------------------------------------------------------------------------------
+ Run Complete - Writing to file
+Application 19435237 exit codes: 134
+Application 19435237 resources: utime ~0s, stime ~0s, Rss ~9756, inblocks ~8287, outblocks ~21311
+--------------------------------------------------------------------------------
+
+Resources requested: ncpus=24,place=free,walltime=00:01:00
+Resources allocated: cpupercent=0,cput=00:00:00,mem=0kb,ncpus=24,vmem=0kb,walltime=00:00:03
+
+*** guest60   Job: 3400616.sdb   ended: 16/12/15 15:48:01   queue: R3377291 ***
+*** guest60   Job: 3400616.sdb   ended: 16/12/15 15:48:01   queue: R3377291 ***
+*** guest60   Job: 3400616.sdb   ended: 16/12/15 15:48:01   queue: R3377291 ***
+*** guest60   Job: 3400616.sdb   ended: 16/12/15 15:48:01   queue: R3377291 ***
+--------------------------------------------------------------------------------
